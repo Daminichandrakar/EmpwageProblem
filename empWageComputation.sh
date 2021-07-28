@@ -1,5 +1,4 @@
 #! /bin/bash -x
-echo "Welcome to empWageProblem"
 #constant variable
 IS_PRESENT=1
 
