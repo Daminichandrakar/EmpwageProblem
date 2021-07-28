@@ -1,5 +1,6 @@
 #! /bin/bash -x
 #constant variable
+echo "doing changes on remote"
 IS_PRESENT=1
 
 #variable
